@@ -8,7 +8,7 @@ munir is a full-stack web and mobile developer.
 
 * 🌍  I'm based in mogadishu-somalia
 * ✉️  You can contact me at [muniir669@gmail.com](mailto:muniir669@gmail.com)
-* 🚀  I'm currently working on [My Blog App](http://github.com/Muniir-abdullahi/munir-blog)
+* 🚀  I'm currently working on [RedFlash](https://redflash.so/)
 * 🧠  I'm learning everything JavaScript
 * 🤝  I'm open to collaborating on nextjs and flutter projects
 
