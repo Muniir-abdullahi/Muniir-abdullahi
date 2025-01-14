@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-munir is a full-stack web and mobile developer.
+Munir is a Full-Stack Web and Mobile Developer.
 
-* 🌍  I'm based in mogadishu-somalia
+* 🌍  I'm based in Mogadishu-Somalia
 * ✉️  You can contact me at [muniir669@gmail.com](mailto:muniir669@gmail.com)
 * 🚀  I'm currently working on [RedFlash](https://redflash.so/)
 * 🧠  I'm learning everything JavaScript
